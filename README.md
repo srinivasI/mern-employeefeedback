@@ -1,3 +1,5 @@
+
+<img width="1918" height="745" alt="image" src="https://github.com/user-attachments/assets/f414aab5-1467-4a1f-8b8b-3ea83209c3f6" />
 ## Technologies Used 🛠️
 🔹 **The MERN stack** is a web development framework made up of the stack of MongoDB, Express, React.js, and Node.js.<br>
 🔹 **MongoDB Atlas database**: A NoSQL database for storing employee data.  
