@@ -1,3 +1,4 @@
+<img width="1918" height="673" alt="image" src="https://github.com/user-attachments/assets/d141f87c-00af-4284-a7ed-06973f42c8e7" />
 
 <img width="1918" height="745" alt="image" src="https://github.com/user-attachments/assets/f414aab5-1467-4a1f-8b8b-3ea83209c3f6" />
 ## Technologies Used 🛠️
